@@ -1,0 +1,28 @@
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    background-color: burlywood;
+}
+
+.center table, input, select, button{
+    margin: auto;
+    font-size: 2rem;
+    text-align: center;
+    align-content: center;
+}
+
+.center a{
+    display: block;
+    text-align: center;
+    align-content: center;
+}
+
+.center td{
+    padding: .5rem;
+}
+
+.center h1,h2{
+    text-align: center;
+}

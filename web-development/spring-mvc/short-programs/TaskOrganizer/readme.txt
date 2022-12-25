@@ -1,0 +1,1 @@
+A Spring MVC app with database that works as a mini personal task organizer.

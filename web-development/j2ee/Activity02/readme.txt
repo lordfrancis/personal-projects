@@ -1,0 +1,1 @@
+A dynamic web app that performs simple registration (No database).

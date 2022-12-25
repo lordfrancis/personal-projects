@@ -1,0 +1,1 @@
+A Spring MVC app that accepts data using a form and display it in a separate jsp
